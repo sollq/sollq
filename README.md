@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My Profile! 👋
 
-<!--
-**sollq/sollq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hey there! I'm passionate about crafting innovative software solutions using the latest technologies in the .NET ecosystem. Currently, I'm actively working on several exciting projects to showcase my skills:
 
-Here are some ideas to get you started:
+- **.NET Core Microservice for Alerts**: Utilizing Kafka for scalable event-driven architecture.
+- **.NET Framework Desktop Library**: A comprehensive library management system using WinForms/WPF and Entity Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+I'm dedicated to refining these projects to demonstrate my proficiency in:
+- 🖥️ .NET Core & .NET Framework Development
+- 📊 Database Management with Entity Framework
+- 🛠️ Design Patterns
+- 🌐 RESTful API Development
+- 📈 Microservices Architecture
+
+## Contact Me
+📫 Telegram: [@xsisd](https://t.me/xsisd)
