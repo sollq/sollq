@@ -11,4 +11,4 @@ Hey there! I'm passionate about crafting innovative software solutions using the
 - 📈 Microservices Architecture
 
 ## Contact Me
-📫 Telegram: [@sollqdev](https://t.me/sollqdev](https://t.me/sollqdev)
+📫 Telegram: [@sollqdev](https://t.me/sollqdev)
