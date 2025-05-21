@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 ## About Me
-Hey there! I'm Senior C# Developer with 6 years commercial practices.
+Hi! I am a senior C# developer with 6 years of commercial experience.
 
 ## What I'm Working On
 - 🖥️ .NET Core & .NET Framework Development
