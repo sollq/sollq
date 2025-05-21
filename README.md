@@ -1,7 +1,7 @@
 # Welcome to My Profile! 👋
 
 ## About Me
-Hey there! I'm passionate about crafting innovative software solutions using the latest technologies in the .NET ecosystem.
+Hey there! I'm Senior C# Developer with 6 years commercial practics.
 
 ## What I'm Working On
 - 🖥️ .NET Core & .NET Framework Development
